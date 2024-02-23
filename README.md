@@ -12,6 +12,7 @@ Parceria entre Agência Brasileira de Desenvolvimento Industrial (ABDI) e o Inst
 
 # Desafios - Fase 1
 
-| Data       | Desafio                               |
-|------------|---------------------------------------|
+| Data       | Desafio                                                                                                                             |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 23-02-2024 | [Challenge 1: Defective Equipament](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipament) |
+| 24-02-2024 | [Challende 1: Convert Text Matrix](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Convert%20Text%20Matrix) |
