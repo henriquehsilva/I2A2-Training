@@ -30,7 +30,7 @@ n_gramas = counts.fit_transform([compared_text, target_text])
 n_gramas_array = n_gramas.toarray()
 
 print(f"Vetor de n-gramas:\n {n_gramas_array}\n")
-print(f"Dicionario de n-gramas (bigrama):\n {vocab2int}\n")
+print(f"Dicionario de n-gramas (unigrama):\n {vocab2int}\n")
 
 intersection_list = np.amin(n_gramas_array, axis=0)
 intersection_count = np.sum(intersection_list)
