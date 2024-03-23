@@ -16,3 +16,4 @@ Parceria entre Agência Brasileira de Desenvolvimento Industrial (ABDI) e o Inst
 |------------|-----------------------------------------------------------------------------------------------------------------------------------|
 | 23-02-2024 | [Challenge 1: Defective Equipment](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Defective%20Equipment) |
 | 24-02-2024 | [Challende 1: Convert Text Matrix](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%201/Convert%20Text%20Matrix) |
+| 22-03-2024 | [Challende 2: Titanic - Machine Learning from Disaster](https://github.com/henriquehsilva/I2A2-Training/tree/main/Challenge%202) |
