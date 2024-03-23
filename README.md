@@ -10,7 +10,7 @@ Parceria entre Agência Brasileira de Desenvolvimento Industrial (ABDI) e o Inst
 
 "A parceria entre a ABDI e o I2A2 trará a capacidade de ampliar a transferência de conhecimentos e, consequentemente, também aumentará a quantidade de multiplicadores, fazendo com que um ciclo virtuoso se estabeleça" - [Celso de Azevedo]. [Refêrencia](https://www.abdi.com.br/abdi-lanca-capacitacao-e-mentoria-em-inteligencia-artificial/)
 
-# Desafios - Fase 1
+# Desafios
 
 | Data       | Desafio                                                                                                                           |
 |------------|-----------------------------------------------------------------------------------------------------------------------------------|
